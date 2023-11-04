@@ -1,61 +1,61 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "Maria Vakalopoulou",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "",
+    "phone": "",
+    "url": "mariavak.github.io",
+    "summary": "My research focuses on medical imaging.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
+      "name": "Universite Paris-Saclay",
+      "position": "Maitre des Conferance",
       "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "startDate": "2019-01-01",
+      "endDate": "",
+      "summary": "Teaching at Ecole Centrale Supelect",
       "highlights": [
-        "Relativity"
+        "Medical imaging."
       ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "University of Athens, Athens, Greece",
+      "url": "https://www.ntua.gr/",
+      "area": "Surveyor",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2010-01-01",
+      "endDate": "2014-01-01",
       "score": "",
       "courses": [
-        "Theory of Relativity"
+        "Satellite imaging"
       ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Award",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     }
   ],
   "certificates": [],
@@ -63,11 +63,15 @@
   "skills": [],
   "languages": [
     {
-      "language": "German",
+      "language": "Greek",
       "fluency": "Native speaker"
     },
     {
       "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "French",
       "fluency": "Fluent"
     }
   ],
