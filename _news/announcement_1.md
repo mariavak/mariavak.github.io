@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date:  20 Feb 2023
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+:tokyo_tower: Together with [Ninon](https://ninonburgos.com/), [Caroline](https://pagesperso.litislab.fr/cpetitjean/) and a fantastic team from all around France, we organise [MIDL 2024](https://2024.midl.io/) in Paris. Stay tuned!
