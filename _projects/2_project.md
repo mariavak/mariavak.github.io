@@ -1,81 +1,86 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: computational pathology
+description: Deep Learning methods for digital pathology
+img: assets/img/image3.gif
 importance: 2
-category: work
-giscus_comments: true
+category: medical applications
+related_publications: mosele2023trastuzumab, fillioux2023structured, zhang2023precise, zhang2023prompt, boyd2022region, scalbert2022test
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Computational Pathology has revolutionized histopathological analysis by leveraging sophisticated computational techniques to augment clinical workflows. Our team is implicated in multiple projects such as [Hagnodice](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjWgMm9uPOCAxVEVKQEHRVEAaIQFnoECA0QAQ&url=https%3A%2F%2Fanr.fr%2FProject-ANR-21-CE45-0007&usg=AOvVaw31mm1Qvi4SfzbH09Ts0Rn_&opi=89978449), [FRQS and HDH](https://www.linkedin.com/feed/update/urn:li:activity:7135491326636142592/), [Prism](https://prism.center/about-prism/) and [Archimedes Unit](https://www.athenarc.gr/en/archimedes) to develop novel methods for processing gigapixel sized digital pathology slides for variety of cancer types.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+---
+#### Selected relevant publications
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+- In [Zhang et. al 2023](https://arxiv.org/pdf/2303.12214.pdf) we propose a prompt-based MIL for boosting multi-instance learning schemes on digital pathology.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="/assets/img/zhang2023_miccai.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    The overview of the method presented on MICCAI 2023 [Zhang et. al 2023].
 </div>
+
+
+
+- In [Fillioux et. al 2023](https://arxiv.org/pdf/2306.15789.pdf) we explore the use of state space models as a multiple instance learner to a variety of problems in digital pathology.  
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="/assets/img/s4_fillioux.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    The overview of the method presented on MICCAI 2023 [Fillioux et. al 2023].
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+- In [Mosele et. al 2023](https://www.nature.com/articles/s41591-023-02478-2) examine the efficacy of T-DXd drug for different HER2 status for metastatic breast cancer patients.
 
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="/assets/img/mosele_histo.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Analysis of the different response of patients with different clusters identified by the digital pathology slides presented in Nature Medicine [Mosele et. al 2023].
+</div>
+
+- In [Zhang et. al 2023](https://arxiv.org/pdf/2212.12105.pdf) we propose a precise location-based matching mechanism that utilizes the overlapping information between geometric transformations to precisely match regions in two augmentations. We demonstrated very good performance on unsupervised nuclei segmentation of digital pathology.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="/assets/img/zhang_ipmi.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Overview of the method presented in IPMI 2023 [Zhang et. al 2023].
+</div>
+
+- In [Boyd et. al 2022](https://arxiv.org/pdf/2208.12847.pdf), we propose a region-guided CycleGAN to provide robust models for stain transfer on the WSI level. 
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="/assets/img/boyd_miccai2022.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    WSI-level resutls of the method presented in MICCAI 2022 [Boyd et. al 2022].
+</div>
+
+- In [Scalbert et. al 2022](https://arxiv.org/pdf/2206.09769.pdf) we proposed a test time data augmentation for out-of-distribution generalization in histopathology.
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="/assets/img/scalbert_miccai2022.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Overview of the method presented in MICCAI 2022 [Scalbert et. al 2022].
 </div>
 
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
 
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+

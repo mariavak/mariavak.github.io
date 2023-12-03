@@ -15,7 +15,7 @@ profile:
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
@@ -27,6 +27,10 @@ I am always interested on new collaborations and we are currently searching for 
 
 <a href="mailto:maria.vakalopoulou@centralesupelec.fr">Email me</a>, if you want to discuss about our research and our current openings.
 
-<div class="alert alert-warning" role="alert"> <h4 class="alert-heading">Open positions</h4> <ul class="my-0"> <li> We are looking for a motivated Postdoc to join our team and work together with [Stergios Christodoulidis](https://stergioc.github.io/), [Jose Dolz](https://josedolz.github.io/) and [Pablo Piantanida](https://stergioc.github.io/) on foundation models for digital pathology and breast cancer</li> <li>Together with [Stergios Christodoulidis](https://stergioc.github.io/) we are looking for motivated Ph.D. students to join our projects on precision medicine with [Gustave Roussy](https://www.gustaveroussy.fr/en)</li></ul> </div>
-
+---
+##### Open positions  
+- We are looking for a motivated Postdoc to join our team and work together with [Stergios Christodoulidis](https://stergioc.github.io/), [Jose Dolz](https://josedolz.github.io/) and [Pablo Piantanida](https://stergioc.github.io/) on foundation models for digital pathology and breast cancer.    
+- Together with [Stergios Christodoulidis](https://stergioc.github.io/) we are looking for motivated Ph.D. students to join our projects on precision medicine with [Gustave Roussy](https://www.gustaveroussy.fr/en).
+  
+---
 
