@@ -22,12 +22,12 @@ I am deeply passionate about interdisciplinary and collaborative research, parti
 #### Current student supervision
 
 2023 - Nabil Mouadden: PhD student with [Guillaume Chassagnon](https://www.linkedin.com/in/guillaume-chassagnon-7499b8213/?originalSubdomain=fr)  
-2023 - [Leo Fillioux](https://www.linkedin.com/in/leofillioux/?locale=fr_FR): PhD student with [Stergios Christodoulidis](https://stergioc.github.io/) and [Paul-Henry Cournede](https://www.linkedin.com/in/paul-henry-courn%C3%A8de-551734222/?originalSubdomain=fr)
-2022 - [Theo Moutakanni](https://www.linkedin.com/in/theo-moutakanni/): PhD student with [Celine Hudelot](https://hudelotc.github.io/)
+2023 - [Leo Fillioux](https://www.linkedin.com/in/leofillioux/?locale=fr_FR): PhD student with [Stergios Christodoulidis](https://stergioc.github.io/) and [Paul-Henry Cournede](https://www.linkedin.com/in/paul-henry-courn%C3%A8de-551734222/?originalSubdomain=fr)  
+2022 - [Theo Moutakanni](https://www.linkedin.com/in/theo-moutakanni/): PhD student with [Piotr Bojanowski](https://scholar.google.com/citations?user=lJ_oh2EAAAAJ&hl=en) and [Celine Hudelot](https://hudelotc.github.io/)  
 2022 - [Marin Scalbert](https://www.linkedin.com/in/marin-scalbert-589b65b9/?locale=en_US): PhD student with [Florent Couzinie-Devy](https://www.linkedin.com/in/florent-couzinie-devy-89946094/?originalSubdomain=fr)  
 2021 - [Jingwei Zhang](https://www.linkedin.com/in/jingwei-zhang-5b444b80/): PhD student with [Dimitris Samaras](https://www.cs.stonybrook.edu/people/faculty/DimitrisSamaras)  
 2021 - [Othmane Laousy](https://www.linkedin.com/in/othmanel/?originalSubdomain=fr): PhD student with [Marie-Pierre Revel](https://www.linkedin.com/in/marie-pierre-revel-9529307a/?originalSubdomain=fr)  
-2021 - [Leo Milecki](https://www.linkedin.com/in/l%C3%A9o-milecki-0567a515b/?originalSubdomain=fr): PhD student with [Marc-Olivier Timsit](https://twitter.com/UrologieParis?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+2021 - [Leo Milecki](https://www.linkedin.com/in/l%C3%A9o-milecki-0567a515b/?originalSubdomain=fr): PhD student with [Vicky Kalogeiton](http://vicky.kalogeiton.info/) and  [Marc-Olivier Timsit](https://twitter.com/UrologieParis?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
 
 ---
