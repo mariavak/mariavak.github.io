@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper accepted to ICLR 2024, on domain invariant SSL!! Amazing work from Marin 
+One paper accepted to ICLR 2024, on [domain invariant SSL](https://arxiv.org/pdf/2303.06088.pdf)!! Amazing work from Marin!! Very well deserved!!
